@@ -1,0 +1,4344 @@
+[
+    {
+        "dealershipId" : 423,
+        "name" : "Bram Fordham Toyota",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 427,
+        "name" : "Bram Bay Bridge Toyota",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 425,
+        "name" : "Bram Route 22 Nissan",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 420,
+        "name" : "Bram Route 22 Toyota",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100318,
+        "name" : "Central Ave CDJR",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100321,
+        "name" : "Victorville Mitsubishi",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100348,
+        "name" : "Habberstad MINI",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 444,
+        "name" : "Northtown Subaru",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NJ", 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 102,
+        "name" : "East Coast Toyota",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 192,
+        "name" : "Victory Toyota of Whittier",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100063,
+        "name" : "Jenkins Kia Gainsville",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100064,
+        "name" : "Jenkins Honda Leesburg",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100099,
+        "name" : "Land Rover South Dade",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 572,
+        "name" : "Jenkins Hyundai of Ocala",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 238,
+        "name" : "Keyes Lexus",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 697,
+        "name" : "McKenna MINI",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 853,
+        "name" : "Jack Daniels Audi of USR",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 750,
+        "name" : "Long Motor Volvo of Princeton",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 751,
+        "name" : "Long Motor Bridgewater Volvo",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 920,
+        "name" : "Gallery South Shore BMW",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA"
+        ]
+    },
+    {
+        "dealershipId" : 921,
+        "name" : "Gallery South Shore MINI",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA"
+        ]
+    },
+    {
+        "dealershipId" : 104,
+        "name" : "Infiniti of Beverly Hills",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100227,
+        "name" : "Jennings Chevrolet",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100238,
+        "name" : "Grossinger City Autoplex Chevrolet",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100243,
+        "name" : "Metro INFINITI",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100251,
+        "name" : "Grossinger Motors Lincoln",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100258,
+        "name" : "Mercedes Benz of Bloomington",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100265,
+        "name" : "Lexus of North Miami",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100276,
+        "name" : "Suburban Cadillac Buick GMC",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100296,
+        "name" : "Premier Nissan of San Jose",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100317,
+        "name" : "Sunshine Kia Of Miami",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100322,
+        "name" : "WIN Hyundai",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100329,
+        "name" : "Auto Gallery Mitsubishi",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100352,
+        "name" : "Bob Fisher Chevrolet",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100354,
+        "name" : "Ferman Mazda Brandon",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100360,
+        "name" : "Fred Beans VW",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 100362,
+        "name" : "Jannell Ford",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI", 
+            "NH", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100011,
+        "name" : "Browns CDJR",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 330,
+        "name" : "East Hills CDJR",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 166,
+        "name" : "Island Subaru",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 175,
+        "name" : "Hudson Hyundai",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 161,
+        "name" : "Island Hyundai",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 108,
+        "name" : "Jim Curley Buick GMC",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 531,
+        "name" : "Lexus of Mt Kisco",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 712,
+        "name" : "Pine Belt Chevrolet",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 109,
+        "name" : "Kia of Stamford",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "CT", 
+            "MA", 
+            "RI"
+        ]
+    },
+    {
+        "dealershipId" : 371,
+        "name" : "DCH Gardena Honda",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 575,
+        "name" : "Celebrity BMW of Springfield",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 752,
+        "name" : "Long Motor Volvo of Edison",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 970,
+        "name" : "Pepe Infiniti",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 551,
+        "name" : "Sunrise Toyota",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 401,
+        "name" : "Curry Acura",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 422,
+        "name" : "Bram Route 22 Honda",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 622,
+        "name" : "Atlantic Honda",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 235,
+        "name" : "Keyes Honda",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 730,
+        "name" : "Grand Prize Chevrolet Cadillac Buick GMC",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 404,
+        "name" : "Curry Toyota",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 403,
+        "name" : "Curry Mercedes-Benz of Wappingers Falls",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 990,
+        "name" : "North Miami Mazda",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 163,
+        "name" : "Island Mazda",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 169,
+        "name" : "Island VW",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 695,
+        "name" : "McKenna Surf City VW",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 466,
+        "name" : "Autosport Acura of Denville",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 350,
+        "name" : "Keystone Volvo of Berwyn",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100060,
+        "name" : "Jenkins Volkswagen",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100062,
+        "name" : "Jenkins Kia Ocala",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100097,
+        "name" : "Audi Gainesville",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100148,
+        "name" : "Vision Kia of Canandaigua",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100149,
+        "name" : "Vision Hyundai of Canandaigua",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 711,
+        "name" : "Pine Belt CDJR",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 351,
+        "name" : "Keystone Volvo of Doylestown",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 950,
+        "name" : "Auto Gallery Alfa Romeo, Maserati",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 400,
+        "name" : "Curry Toyota Of CT",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 405,
+        "name" : "Curry Subaru",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 232,
+        "name" : "Keyes Woodland Hills Buick GMC Cadillac",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 601,
+        "name" : "Perkins Honda of Westport",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "CT", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 116,
+        "name" : "Valley Stream Mazda",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 105,
+        "name" : "Ford Lincoln of Queens Boulevard",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 176,
+        "name" : "Hudson Chevrolet of Jersey City",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100001,
+        "name" : "VIP Garden City CDJR",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100002,
+        "name" : "VIP Westbury CDJR",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 971,
+        "name" : "Pepe Cadillac",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 202,
+        "name" : "Nemet Nissan",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 242,
+        "name" : "Keyes Centennial Toyota",
+        "state" : "NV",
+        "sellingArea" : [ 
+            "NV"
+        ]
+    },
+    {
+        "dealershipId" : 200,
+        "name" : "Nemet Hyundai",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 421,
+        "name" : "Bram Hudson honda",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100015,
+        "name" : "Mercedes-Benz of Rockville Centre",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 628,
+        "name" : "Atlantic Millennium Toyota",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 270,
+        "name" : "Culver City Volvo",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 113,
+        "name" : "Drezdner Chevrolet",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100014,
+        "name" : "Lynch Toyota of Manchester",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100028,
+        "name" : "Matt Blatt Kia of Toms River",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100018,
+        "name" : "Honda of New Rochelle",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 621,
+        "name" : "Atlantic Audi Lynbrook",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 237,
+        "name" : "Keyes Hyundai",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 201,
+        "name" : "Nemet Kia",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100024,
+        "name" : "Reedman Toll CDJR",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "NY", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 395,
+        "name" : "New Rochelle Chevrolet",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 114,
+        "name" : "Subaru Stamford",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 210,
+        "name" : "Tantillo Nissan 112",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 271,
+        "name" : "Culver City Mazda",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100237,
+        "name" : "Grossinger Subaru",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100261,
+        "name" : "Audi of Bloomington Normal",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100271,
+        "name" : "Temecula Hyundai",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100349,
+        "name" : "Central Ave Hyundai",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100353,
+        "name" : "Ferman Chevrolet of Tampa",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100355,
+        "name" : "Ferman BMW",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100009,
+        "name" : "DCH Brunswick Toyota",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 106,
+        "name" : "Audi Meadowlands",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "CT", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 150,
+        "name" : "Puente Hills Nissan",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 167,
+        "name" : "Island CDJR",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100026,
+        "name" : "Matt Blatt Kia (Egg Harbor)",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 691,
+        "name" : "McKenna BMW",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 234,
+        "name" : "Keyes Lexus of Valencia",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 241,
+        "name" : "Keyes Audi",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 164,
+        "name" : "Island Mitsubishi",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 951,
+        "name" : "Auto Gallery Fiat",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 231,
+        "name" : "Keyes Woodland Hills Honda",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 111,
+        "name" : "Acura of Fremont",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100034,
+        "name" : "Route 23 Honda",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100035,
+        "name" : "Performance Ford Lincoln",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100032,
+        "name" : "Wayne Mazda",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100019,
+        "name" : "Brickell Honda",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 162,
+        "name" : "Island Kia",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 624,
+        "name" : "Atlantic Nissan",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NJ", 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100012,
+        "name" : "Lexus of Englewood",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100041,
+        "name" : "Bridgewater Nissan",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100020,
+        "name" : "Brickell Buick & GMC",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100046,
+        "name" : "Mitchell Nissan",
+        "state" : "AL",
+        "sellingArea" : [ 
+            "AL", 
+            "GA", 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100029,
+        "name" : "Reedman Toll Chevrolet",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "NY", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 117,
+        "name" : "Licauto Huntington Mazda",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100042,
+        "name" : "Wantagh Mazda",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100045,
+        "name" : "Ramsey Infiniti",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100048,
+        "name" : "Crest Lincoln Jaguar",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "CT", 
+            "NY", 
+            "RI", 
+            "MA"
+        ]
+    },
+    {
+        "dealershipId" : 100003,
+        "name" : "VIP Westbury FIAT",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100038,
+        "name" : "Lasorsa Chevrolet Buick",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100023,
+        "name" : "Reedman Toll Subaru",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA", 
+            "NY", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 910,
+        "name" : "Kuhn Honda",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 118,
+        "name" : "Licauto Garden City Mazda",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 119,
+        "name" : "Sun Buick GMC of Nassau",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 140,
+        "name" : "Habberstad BMW / MINI",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 155,
+        "name" : "Manfredi Chevrolet",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 168,
+        "name" : "Island Toyota",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100056,
+        "name" : "Hawthorne Chevrolet",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100044,
+        "name" : "Huntington Honda",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100040,
+        "name" : "Teddy Volkswagen",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100036,
+        "name" : "Huntington Hyundai",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100030,
+        "name" : "Westchester Toyota",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100017,
+        "name" : "Arroway CDJR",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100016,
+        "name" : "Island Acura",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100013,
+        "name" : "Curry Chevrolet",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100005,
+        "name" : "VIP Huntington Volvo",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100004,
+        "name" : "VIP Grand Prix Subaru",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 698,
+        "name" : "Oyster Bay BMW",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 629,
+        "name" : "Atlantic Advantage Toyota",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 627,
+        "name" : "Atlantic Audi",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 626,
+        "name" : "Atlantic Lexus of 110",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 550,
+        "name" : "Sunrise Chevrolet",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 446,
+        "name" : "Northtown Mazda",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NJ", 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 408,
+        "name" : "Curry Hyundai",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 233,
+        "name" : "Keyes Mission Hills Hyundai",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 402,
+        "name" : "Curry Mercedes-Benz Of Danbury",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100025,
+        "name" : "Reedman Toll Fiat",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "DE", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 570,
+        "name" : "Jenkins Acura",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 160,
+        "name" : "Island Fiat",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 625,
+        "name" : "Atlantic Lexus of Rockville Centre",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100067,
+        "name" : "Criswell Nissan",
+        "state" : "MD",
+        "sellingArea" : [ 
+            "MD", 
+            "VA", 
+            "PA", 
+            "DE", 
+            "WV", 
+            "DC"
+        ]
+    },
+    {
+        "dealershipId" : 577,
+        "name" : "Celebrity Maserati of Morris County",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 240,
+        "name" : "Keyes Chevrolet",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 244,
+        "name" : "Keyes Audi Valencia",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100069,
+        "name" : "Jeff D'Ambrosio Volkswagen Downingtown",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "DE", 
+            "MD"
+        ]
+    },
+    {
+        "dealershipId" : 100043,
+        "name" : "Volkswagen Santa Monica",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100071,
+        "name" : "Jeff D'Ambrosio Alfa Romeo and FIAT of the Main Line",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "DE", 
+            "MD"
+        ]
+    },
+    {
+        "dealershipId" : 100068,
+        "name" : "Jeff D'Ambrosio CDJR Downingtown",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "DE", 
+            "MD"
+        ]
+    },
+    {
+        "dealershipId" : 100070,
+        "name" : "Jeff D'Ambrosio Mitsubishi Downingtown",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "DE", 
+            "MD", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100074,
+        "name" : "Sansone CDJR",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100076,
+        "name" : "Sansone Mazda",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100075,
+        "name" : "Sansone Hyundai",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100079,
+        "name" : "Oneil Nissan",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 530,
+        "name" : "Lexus of Greenwich",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100073,
+        "name" : "Metro Ford",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100033,
+        "name" : "Wayne Hyundai",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100072,
+        "name" : "Paoli Ford",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 100066,
+        "name" : "Mercedes-Benz of White Plains",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100082,
+        "name" : "Porsche of Larchmont",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100083,
+        "name" : "John Elways Claremont CDJR",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 243,
+        "name" : "Keyes Bell Road Toyota",
+        "state" : "AZ",
+        "sellingArea" : [ 
+            "AZ"
+        ]
+    },
+    {
+        "dealershipId" : 100,
+        "name" : "Silverstar Mercedes-Benz",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100010,
+        "name" : "Pacific BMW",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100080,
+        "name" : "Sansone Kia",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100077,
+        "name" : "Sansone Toyota",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100078,
+        "name" : "Sansone Nissan",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 623,
+        "name" : "Atlantic Hyundai",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100086,
+        "name" : "Hamilton Volkswagen",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 100087,
+        "name" : "Hamilton Mazda",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 100089,
+        "name" : "Fletcher CDJR Border Store",
+        "state" : "MO",
+        "sellingArea" : [ 
+            "MO", 
+            "AR"
+        ]
+    },
+    {
+        "dealershipId" : 100090,
+        "name" : "Fletcher Ford Border Store",
+        "state" : "MO",
+        "sellingArea" : [ 
+            "MO", 
+            "AR"
+        ]
+    },
+    {
+        "dealershipId" : 571,
+        "name" : "Jenkins Mazda",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100091,
+        "name" : "West Coast Toyota of Long Beach",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100092,
+        "name" : "Nissan of Long Beach",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 851,
+        "name" : "Jack Daniels Porsche",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100094,
+        "name" : "Miller Ford Lincoln",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100100,
+        "name" : "Warren Henry INFINITI, Land Rover Jaguar",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 370,
+        "name" : "DCH Montclair Acura",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100101,
+        "name" : "DCH Paramus Honda",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100106,
+        "name" : "Baron Honda",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100107,
+        "name" : "Baron Nissan",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100108,
+        "name" : "New Rochelle Hyundai",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100109,
+        "name" : "Benton Nissan of Columbia",
+        "state" : "TN",
+        "sellingArea" : [ 
+            "TN", 
+            "KY", 
+            "AL", 
+            "MS", 
+            "GA"
+        ]
+    },
+    {
+        "dealershipId" : 100006,
+        "name" : "VIP Levittown Ford",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100111,
+        "name" : "Santa Monica CDJR",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100098,
+        "name" : "Keys Motors CDJR Ford Toyota",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100112,
+        "name" : "Nissani Bros. Hyundai",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100113,
+        "name" : "Nissani Bros. CDJR",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100114,
+        "name" : "Nissani Bros. Nissan",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100115,
+        "name" : "Nissani Bros. Chevrolet",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100116,
+        "name" : "Lexus of Santa Monica",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100117,
+        "name" : "Euro Motorcars Devon Mercedes-Benz",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA", 
+            "DE", 
+            "MD"
+        ]
+    },
+    {
+        "dealershipId" : 100118,
+        "name" : "All American Mazda In Brick",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100119,
+        "name" : "All American Subaru in Old Bridge",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100120,
+        "name" : "All American Ford In Point Pleasant",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 901,
+        "name" : "Flemington BMW",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100049,
+        "name" : "Healey Genesis",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100050,
+        "name" : "Healey Chevrolet",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100051,
+        "name" : "Healey Brothers Mitsubishi",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100052,
+        "name" : "Healey Mitsubishi",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100053,
+        "name" : "Healey Hyundai",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100054,
+        "name" : "Healey Kia",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100055,
+        "name" : "Healey Chevrolet Buick",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100057,
+        "name" : "Healey Ford",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100058,
+        "name" : "Healey Lincoln",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 445,
+        "name" : "Northtown KIA",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NJ", 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100110,
+        "name" : "Volkswagen Alhambra",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100121,
+        "name" : "MINI of Santa Monica",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100122,
+        "name" : "Euro Motorcars Germantown Mercedes-Benz",
+        "state" : "MD",
+        "sellingArea" : [ 
+            "MD", 
+            "VA", 
+            "PA", 
+            "DE", 
+            "WV", 
+            "DC"
+        ]
+    },
+    {
+        "dealershipId" : 100123,
+        "name" : "Scott Volkswagen",
+        "state" : "RI",
+        "sellingArea" : [ 
+            "RI", 
+            "MA", 
+            "CT", 
+            "VT", 
+            "NH"
+        ]
+    },
+    {
+        "dealershipId" : 100124,
+        "name" : "Romeo Ford of Kingston",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100125,
+        "name" : "Romeo Kia of Kingston",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100126,
+        "name" : "Romeo Chevrolet Buick GMC",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100104,
+        "name" : "Northstar Mitsubishi",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100105,
+        "name" : "Northstar KIA",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100127,
+        "name" : "Honda of Hackettstown",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100128,
+        "name" : "Acura of Wappingers Falls",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100129,
+        "name" : "All American Paramus Ford",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100130,
+        "name" : "Audi Queens",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100131,
+        "name" : "Madison Honda",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 236,
+        "name" : "Keyes Toyota",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 574,
+        "name" : "Jenkins Thornton Road Hyundai",
+        "state" : "GA",
+        "sellingArea" : [ 
+            "GA"
+        ]
+    },
+    {
+        "dealershipId" : 100102,
+        "name" : "Downs Ford, Inc.",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 465,
+        "name" : "Autosport Chevrolet",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 694,
+        "name" : "McKenna VW Cerritos",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 855,
+        "name" : "Jack Daniels Audi of Paramus",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 911,
+        "name" : "Kuhn Volkswagen",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 696,
+        "name" : "McKenna South Bay BMW",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 934,
+        "name" : "TitanMotor Nissan Queens",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 940,
+        "name" : "David Wilson Newport Lexus",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 115,
+        "name" : "Brandon VW",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 151,
+        "name" : "Puente Hills Ford",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 900,
+        "name" : "Flemington Clinton Honda",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100008,
+        "name" : "Glen Toyota",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "CT", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 602,
+        "name" : "Perkins Subaru",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "CT", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100103,
+        "name" : "Springfield Acura",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 211,
+        "name" : "Tantillo Riverhead Nissan",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100132,
+        "name" : "All American Ford In Old Bridge",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100133,
+        "name" : "Route 18 CDJR",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100134,
+        "name" : "Mercedes-Benz of Caldwell",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100135,
+        "name" : "Neftin Westlake  Mazda Volkswagen",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100136,
+        "name" : "Felix Chevrolet",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 406,
+        "name" : "Curry Honda Chicopee",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA"
+        ]
+    },
+    {
+        "dealershipId" : 407,
+        "name" : "Curry Nissan",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA"
+        ]
+    },
+    {
+        "dealershipId" : 100141,
+        "name" : "CJ Wilson Mazda of Ventura",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100021,
+        "name" : "Brickell Mazda",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100143,
+        "name" : "Bartow Ford",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100137,
+        "name" : "Route 44 Toyota",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI", 
+            "NH", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100145,
+        "name" : "Honda of Thousand Oaks",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100140,
+        "name" : "BMW of the Main Line",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "DE", 
+            "MD"
+        ]
+    },
+    {
+        "dealershipId" : 100138,
+        "name" : "Route 44 Hyundai",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI"
+        ]
+    },
+    {
+        "dealershipId" : 100146,
+        "name" : "Crown CDJR",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100150,
+        "name" : "Salerno Duane CDJR of Summit",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100151,
+        "name" : "Kia of East Hartford",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT", 
+            "MA"
+        ]
+    },
+    {
+        "dealershipId" : 100161,
+        "name" : "Granite Run Buick GMC",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "DE", 
+            "MD"
+        ]
+    },
+    {
+        "dealershipId" : 100160,
+        "name" : "Nissan World of Springfield",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100159,
+        "name" : "Subaru World of Newton",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100158,
+        "name" : "Nissan World of Red Bank",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100153,
+        "name" : "New Century Volkswagen",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100152,
+        "name" : "Salerno Duane Ford",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100144,
+        "name" : "Torrington Toyota",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "NY", 
+            "MA", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100154,
+        "name" : "Begnal Motor Company CDJR",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT", 
+            "VT", 
+            "MA"
+        ]
+    },
+    {
+        "dealershipId" : 100162,
+        "name" : "Begnal Motor Company Fiat",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT", 
+            "VT", 
+            "MA"
+        ]
+    },
+    {
+        "dealershipId" : 100163,
+        "name" : "Lavery Chevrolet",
+        "state" : "OH",
+        "sellingArea" : [ 
+            "OH"
+        ]
+    },
+    {
+        "dealershipId" : 100164,
+        "name" : "Lavery Buick GMC",
+        "state" : "OH",
+        "sellingArea" : [ 
+            "OH"
+        ]
+    },
+    {
+        "dealershipId" : 100165,
+        "name" : "Lavery Cadillac",
+        "state" : "OH",
+        "sellingArea" : [ 
+            "OH"
+        ]
+    },
+    {
+        "dealershipId" : 100166,
+        "name" : "Stadium Toyota",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100167,
+        "name" : "Sullivan Honda",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "CT", 
+            "MA", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100168,
+        "name" : "Generation Kia",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100169,
+        "name" : "INFINITI of Norwood",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI"
+        ]
+    },
+    {
+        "dealershipId" : 100170,
+        "name" : "Audi Bridgewater + (Audi Mendham)",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100157,
+        "name" : "Nissan World of Denville",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100155,
+        "name" : "Toyota World of Newton",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100171,
+        "name" : "Northwest Hills CDJR",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "MA", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100172,
+        "name" : "Terry Marxen Chevrolet Cadillac",
+        "state" : "AZ",
+        "sellingArea" : [ 
+            "AZ"
+        ]
+    },
+    {
+        "dealershipId" : 100180,
+        "name" : "Greenacres Nissan",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100181,
+        "name" : "Reynolds Buick GMC",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100185,
+        "name" : "Napoli Nissan",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100186,
+        "name" : "Napoli Kia",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT", 
+            "RI"
+        ]
+    },
+    {
+        "dealershipId" : 100142,
+        "name" : "Kundert Volvo Cars Of Hasbrouck Heights",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100189,
+        "name" : "Mangino Chevrolet",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100173,
+        "name" : "Lexus Of Cherry Hill",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "PA", 
+            "MD", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 100174,
+        "name" : "O'Neill's Chevrolet Buick",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "NY", 
+            "MA", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100175,
+        "name" : "City World Hyundai",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100061,
+        "name" : "Jenkins Nissan Leesburg",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100177,
+        "name" : "John Elway Cadillac",
+        "state" : "CO",
+        "sellingArea" : [ 
+            "CO"
+        ]
+    },
+    {
+        "dealershipId" : 100176,
+        "name" : "Milford Nissan",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "CT", 
+            "MA"
+        ]
+    },
+    {
+        "dealershipId" : 100178,
+        "name" : "O'Neil Buick GMC",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 710,
+        "name" : "Pine Belt Subaru",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100190,
+        "name" : "Middletown Toyota",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "CT", 
+            "MA", 
+            "NH", 
+            "VT", 
+            "RI"
+        ]
+    },
+    {
+        "dealershipId" : 230,
+        "name" : "Keyes Woodland Hills Hyundai",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100188,
+        "name" : "Northwest Hills Chevrolet Buick GMC Cadillac",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "CT", 
+            "MA", 
+            "RI"
+        ]
+    },
+    {
+        "dealershipId" : 100187,
+        "name" : "East Syracuse Chevrolet",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100191,
+        "name" : "Bell Mitsubishi",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100192,
+        "name" : "Audi Exchange",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL", 
+            "WI", 
+            "IN", 
+            "MI", 
+            "OH"
+        ]
+    },
+    {
+        "dealershipId" : 100193,
+        "name" : "Porsche Exchange",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL", 
+            "WI", 
+            "IN", 
+            "MI", 
+            "OH"
+        ]
+    },
+    {
+        "dealershipId" : 100182,
+        "name" : "Martin Cadillac Buick GMC",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100184,
+        "name" : "Quality Chevrolet",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100200,
+        "name" : "Claremont Hyundai",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100202,
+        "name" : "Gerald Nissan of North Aurora",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100201,
+        "name" : "Chevrolet of Milford",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100199,
+        "name" : "Boardwalk Nissan",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100204,
+        "name" : "Boardwalk Volkswagen",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100183,
+        "name" : "Ford of Branford",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "NY", 
+            "CT", 
+            "MA"
+        ]
+    },
+    {
+        "dealershipId" : 100197,
+        "name" : "Toyota 101",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100205,
+        "name" : "Lexus Of Pembroke Pines",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100203,
+        "name" : "Nick Alexander MINI",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100179,
+        "name" : "Burlington Chevrolet",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "PA", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 100206,
+        "name" : "Crossroads Ford",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100209,
+        "name" : "Central Kia of Norwood",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI", 
+            "NH"
+        ]
+    },
+    {
+        "dealershipId" : 100210,
+        "name" : "Central Alfa Romeo of Norwood",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA"
+        ]
+    },
+    {
+        "dealershipId" : 100195,
+        "name" : "Burlington Kia",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 100208,
+        "name" : "Turnersville Kia",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 100085,
+        "name" : "Nissani Bros Acura",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100194,
+        "name" : "Chevrolet Exchange",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL", 
+            "IN", 
+            "WI"
+        ]
+    },
+    {
+        "dealershipId" : 100207,
+        "name" : "Burlington Volkswagen",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "PA", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 100213,
+        "name" : "Mercedes-Benz of South Orlando",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100214,
+        "name" : "Nissan 24",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100216,
+        "name" : "Stateline Nissan",
+        "state" : "RI",
+        "sellingArea" : [ 
+            "RI", 
+            "MA", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100217,
+        "name" : "Stateline CDJR",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100218,
+        "name" : "Stateline Subaru",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100220,
+        "name" : "Station CDJR",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100219,
+        "name" : "Dartmouth Nissan",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100223,
+        "name" : "Goudy Honda",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100228,
+        "name" : "Culver City Toyota",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100273,
+        "name" : "Premier Subaru of Fremont",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100275,
+        "name" : "Premier Victory Chevrolet",
+        "state" : "MO",
+        "sellingArea" : [ 
+            "MO"
+        ]
+    },
+    {
+        "dealershipId" : 100319,
+        "name" : "South Coast Mitsubishi",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100330,
+        "name" : "Cardinale Way Hyundai",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100331,
+        "name" : "Seabreeze Ford",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "NY", 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100346,
+        "name" : "Premier Nissan of Metairie",
+        "state" : "LA",
+        "sellingArea" : [ 
+            "LA"
+        ]
+    },
+    {
+        "dealershipId" : 100356,
+        "name" : "Bertera Nissan",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI", 
+            "CT", 
+            "NH"
+        ]
+    },
+    {
+        "dealershipId" : 100357,
+        "name" : "Ferman Buick GMC",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100358,
+        "name" : "Ferman CDJR",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100224,
+        "name" : "Subaru Pacific",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 690,
+        "name" : "McKenna Audi",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 692,
+        "name" : "McKenna Porsche",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100222,
+        "name" : "Reedman-Toll Chevrolet of Exton",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "DE", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100198,
+        "name" : "Nissan of New Rochelle",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100221,
+        "name" : "CDJR 24",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100156,
+        "name" : "Toyota World of Lakewood",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100248,
+        "name" : "Grossinger Kia",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100234,
+        "name" : "Grossinger City Autoplex Cadillac",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100232,
+        "name" : "Subaru of Santa Monica",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100235,
+        "name" : "Grossinger Hyundai of Palatine",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100236,
+        "name" : "North City Honda",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100230,
+        "name" : "Allentown Kia",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100233,
+        "name" : "Raceway Kia",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100252,
+        "name" : "Grossinger Motors Audi",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100253,
+        "name" : "Grossinger Motors Mercedes-Benz",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100254,
+        "name" : "Grossinger Motors Subaru",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100256,
+        "name" : "Grossinger Motors Volvo",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100244,
+        "name" : "Grossinger Palatine Chevrolet",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100246,
+        "name" : "Grossinger Toyota North",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100255,
+        "name" : "Grossinger Motors Volkswagen",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100245,
+        "name" : "Grossinger City Toyota",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100247,
+        "name" : "Grossinger Hyundai North",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100257,
+        "name" : "Volvo Cars Normal",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100259,
+        "name" : "Lincoln of Normal",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100260,
+        "name" : "Volkswagen of Bloomington Normal",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 576,
+        "name" : "Celebrity Lexus of Route 10",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100196,
+        "name" : "Jack Madden Ford",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI", 
+            "NH"
+        ]
+    },
+    {
+        "dealershipId" : 100264,
+        "name" : "Guaranty Chevrolet",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100225,
+        "name" : "Roberts Subaru of Downingtown",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 100226,
+        "name" : "Roberts Honda",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 100229,
+        "name" : "Ardmore Toyota",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 100262,
+        "name" : "Patriot Buick GMC",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NY", 
+            "NJ", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 100242,
+        "name" : "Santa Monica Ford Lincoln",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100249,
+        "name" : "Subaru of Pembroke Pines",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100239,
+        "name" : "Patriot Chevrolet",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "DE", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100263,
+        "name" : "Land Rover Princeton",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "PA", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100266,
+        "name" : "Flemington Audi VW Porsche",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100212,
+        "name" : "Boardwalk CDJR",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100211,
+        "name" : "Boardwalk Chevrolet",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100268,
+        "name" : "Kendall Toyota",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100270,
+        "name" : "Temecula Nissan",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100231,
+        "name" : "Honda of Aventura",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100272,
+        "name" : "CDJR of Paramus",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100274,
+        "name" : "Connell Chevrolet",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 532,
+        "name" : "Greenwich Infiniti",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "NY", 
+            "CT", 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100269,
+        "name" : "Nicholas Parks Hyundai Kia",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100277,
+        "name" : "Premier Nissan Stevens Creek",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100278,
+        "name" : "Infiniti Coral Gables",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100279,
+        "name" : "City Cadillac Buick GMC",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100281,
+        "name" : "Salerno Duane INFINITI",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ"
+        ]
+    },
+    {
+        "dealershipId" : 100267,
+        "name" : "Premier CDJR of Buena Park",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100282,
+        "name" : "Premier CDJR of Tracy",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100283,
+        "name" : "Premier Hyundai of Tracy",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100284,
+        "name" : "Premier Victory CDJR",
+        "state" : "KS",
+        "sellingArea" : [ 
+            "KS"
+        ]
+    },
+    {
+        "dealershipId" : 100285,
+        "name" : "Premier Honda",
+        "state" : "LA",
+        "sellingArea" : [ 
+            "LA"
+        ]
+    },
+    {
+        "dealershipId" : 100286,
+        "name" : "Premier Victory Ford",
+        "state" : "KS",
+        "sellingArea" : [ 
+            "MS", 
+            "KS"
+        ]
+    },
+    {
+        "dealershipId" : 100287,
+        "name" : "Premier Toyota of New Orleans",
+        "state" : "LA",
+        "sellingArea" : [ 
+            "LA", 
+            "MS", 
+            "TX"
+        ]
+    },
+    {
+        "dealershipId" : 100289,
+        "name" : "Premier Chevrolet of Buena Park",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100290,
+        "name" : "Premier Toyota of Poway",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100288,
+        "name" : "Gregory INFINITI",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100147,
+        "name" : "Vision Nissan Canandaigua",
+        "state" : "NY",
+        "sellingArea" : [ 
+            "PA", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100240,
+        "name" : "Fiat of Burlingame",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100241,
+        "name" : "Alfa Romeo of Burlingame",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100294,
+        "name" : "Premier CDJR of New Orleans",
+        "state" : "LA",
+        "sellingArea" : [ 
+            "LA"
+        ]
+    },
+    {
+        "dealershipId" : 100297,
+        "name" : "DTLA Porsche",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100295,
+        "name" : "Toyota of Glendora",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100298,
+        "name" : "Toyota of Braintree",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI"
+        ]
+    },
+    {
+        "dealershipId" : 100299,
+        "name" : "Prime Ford Auburn",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI", 
+            "CT", 
+            "NH"
+        ]
+    },
+    {
+        "dealershipId" : 100300,
+        "name" : "Huntington Beach Hyundai",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100291,
+        "name" : "Tom Hesser Nissan",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 573,
+        "name" : "Jenkins Hyundai of Leesburg",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100304,
+        "name" : "Tom Masano Mercedes",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100305,
+        "name" : "Patrick Volvo Mazda",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI", 
+            "CT", 
+            "NH"
+        ]
+    },
+    {
+        "dealershipId" : 100306,
+        "name" : "Patrick Volkswagen",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "CT", 
+            "RI"
+        ]
+    },
+    {
+        "dealershipId" : 100307,
+        "name" : "Patrick Subaru",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "RI", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100292,
+        "name" : "Tom Hesser BMW",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100293,
+        "name" : "Tom Hesser Chevrolet",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "NJ", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100301,
+        "name" : "Team Nissan of Oxnard",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100302,
+        "name" : "Jennings Volkswagen",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 100280,
+        "name" : "Car Pros Kia Huntington Beach",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100303,
+        "name" : "Franklin Ford",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "CT", 
+            "NH", 
+            "RI"
+        ]
+    },
+    {
+        "dealershipId" : 100316,
+        "name" : "Diamond Auto Group Chevrolet Buick GMC",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "NH", 
+            "CT", 
+            "RI", 
+            "ME"
+        ]
+    },
+    {
+        "dealershipId" : 100320,
+        "name" : "Cerritos Mitsubishi",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100315,
+        "name" : "Haldeman Subaru Ford",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100323,
+        "name" : "WIN Chevrolet",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100325,
+        "name" : "Premier Nissan Of Fremont",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100313,
+        "name" : "Gregory Hyundai",
+        "state" : "IL",
+        "sellingArea" : [ 
+            "IL"
+        ]
+    },
+    {
+        "dealershipId" : 239,
+        "name" : "Keyes European Mercedes-Benz",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100326,
+        "name" : "Team Toyota Langhorne",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA", 
+            "MD", 
+            "DE"
+        ]
+    },
+    {
+        "dealershipId" : 100327,
+        "name" : "Crowley VW",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "CT", 
+            "MA", 
+            "NH", 
+            "RI"
+        ]
+    },
+    {
+        "dealershipId" : 100309,
+        "name" : "Crowley Nissan",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "CT", 
+            "MA", 
+            "RI", 
+            "NH"
+        ]
+    },
+    {
+        "dealershipId" : 100310,
+        "name" : "Crowley Kia",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "CT", 
+            "MA"
+        ]
+    },
+    {
+        "dealershipId" : 100328,
+        "name" : "Riverside KIA",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100312,
+        "name" : "Crowley CDJR",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "CT", 
+            "MA", 
+            "NH", 
+            "RI"
+        ]
+    },
+    {
+        "dealershipId" : 100311,
+        "name" : "Crowley Ford Lincoln",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "CT", 
+            "MA", 
+            "RI", 
+            "NH", 
+            "VT"
+        ]
+    },
+    {
+        "dealershipId" : 100332,
+        "name" : "Cardinale Way VW",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100314,
+        "name" : "Fred Martin Superstore CDJR Fiat",
+        "state" : "OH",
+        "sellingArea" : [ 
+            "OH"
+        ]
+    },
+    {
+        "dealershipId" : 100333,
+        "name" : "Mercedes Benz of Newton",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100335,
+        "name" : "Garden Grove Nissan",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100336,
+        "name" : "Larry H Miller Nissan Corona",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100337,
+        "name" : "Sussex Honda",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100338,
+        "name" : "Jaguar Land Rover Willow Grove",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "PA", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100339,
+        "name" : "Audi Calabasas",
+        "state" : "CA",
+        "sellingArea" : [ 
+            "CA"
+        ]
+    },
+    {
+        "dealershipId" : 100340,
+        "name" : "Hollywood Chrysler Jeep",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100341,
+        "name" : "University Mitsubishi",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100342,
+        "name" : "Aventura CDJR",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100343,
+        "name" : "Kendall CDJR",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100344,
+        "name" : "Miami Lakes Auto Mall",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100345,
+        "name" : "University Dodge",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    },
+    {
+        "dealershipId" : 100347,
+        "name" : "Premier KIA Of Kenner",
+        "state" : "LA",
+        "sellingArea" : [ 
+            "LA"
+        ]
+    },
+    {
+        "dealershipId" : 852,
+        "name" : "Jack Daniels Kia",
+        "state" : "NJ",
+        "sellingArea" : [ 
+            "NJ", 
+            "NY", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100334,
+        "name" : "Lexus of Las Vegas",
+        "state" : "NV",
+        "sellingArea" : [ 
+            "NV"
+        ]
+    },
+    {
+        "dealershipId" : 100350,
+        "name" : "BMW Gallery of Norwood",
+        "state" : "MA",
+        "sellingArea" : [ 
+            "MA", 
+            "CT", 
+            "NH", 
+            "RI", 
+            "VT", 
+            "ME", 
+            "NY"
+        ]
+    },
+    {
+        "dealershipId" : 100359,
+        "name" : "Lexus of Westport",
+        "state" : "CT",
+        "sellingArea" : [ 
+            "NY", 
+            "NJ", 
+            "CT"
+        ]
+    },
+    {
+        "dealershipId" : 100361,
+        "name" : "Fred Beans Ford Newtown",
+        "state" : "PA",
+        "sellingArea" : [ 
+            "PA"
+        ]
+    },
+    {
+        "dealershipId" : 100363,
+        "name" : "Ferman CJDR of New Port Richey",
+        "state" : "FL",
+        "sellingArea" : [ 
+            "FL"
+        ]
+    }
+]

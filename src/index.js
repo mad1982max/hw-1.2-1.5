@@ -5,6 +5,58 @@ const customers = require('./data/customers'); // IMMUTABLE. DON'T CHANGE custom
 const dealerships = require('./data/dealerships'); // IMMUTABLE. DON'T CHANGE dealerships
 const orders = require('./data/orders'); // IMMUTABLE. DON'T CHANGE orders
 
+//SUBTASK #1***************************************
+const subtask1 = () => {
+    const dealersCars = (cars, id) => cars.filter(car => car.dealershipId === id);
+
+    return dealerships.map(dealer => {
+
+        return {
+            dealershipId: dealer.dealershipId,
+            name: dealer.name,
+            state: dealer.state,
+            cars: dealersCars(cars, dealer.dealershipId).reduce((col, car) => {
+                const makerObj = col.find(i => car.make === i.make);
+
+                if(makerObj) {
+                    const modelObj = makerObj.models.find(m => m.model === car.model);
+                    if(modelObj) {
+                        modelObj.displayNames.push(car.displayName);
+                    } else {
+                        makerObj.models.push(
+                            {
+                                model: car.model,
+                                displayNames: [car.displayName]
+                            }
+                        )
+                    }
+
+                } else {
+                    col.push(
+                        {
+                            make: car.make,
+                            models: [
+                                {
+                                    model: car.model,
+                                    displayNames: [car.displayName]
+                                }
+                            ]
+                        }
+                    );
+                }
+
+                return col;
+            }, [])
+        }
+    });
+};
+
+console.time('subtask #1');
+const result1 = subtask1();
+console.timeEnd('subtask #1');
+console.log('subtask #1 result: ', JSON.stringify(result1[0], null, 2), JSON.stringify(result1[result1.length - 1], null, 2));
+
+
 //SUBTASK #2***************************************
 
 const subtask2 = () => {
@@ -93,7 +145,6 @@ console.log('subtask #4 result: ', JSON.stringify(result4[0], null, 2), JSON.str
 
 //SUBTASK #5--------------------------------
 
-
 const subtask5 = (minId = 100000, maxId = 100200, isReversed = false) => {
 
     let dealerArr = dealerships.map(dealer => {
@@ -106,14 +157,12 @@ const subtask5 = (minId = 100000, maxId = 100200, isReversed = false) => {
                 .map(car => car.id)
         }
     });
-
     if(isReversed) {
         return dealerArr.filter(dealer => dealer.dealershipId < minId || dealer.dealershipId > maxId);
     } else {
         return dealerArr.filter(dealer => dealer.dealershipId > minId && dealer.dealershipId < maxId);
     }
 };
-
 
 console.time('subtask #5');
 const result5 = subtask5();
@@ -144,7 +193,6 @@ console.time('subtask #6');
 const result6 = subtask6(result3);
 console.timeEnd('subtask #6');
 console.log('subtask #6 result: ', JSON.stringify(result6[0], null, 2), JSON.stringify(result6[result6.length - 1], null, 2));
-
 
 module.exports = {
     subtask2,
